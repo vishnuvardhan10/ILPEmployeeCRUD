@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Microsoft.ILP2025.EmployeeCRUD.Entities\Microsoft.ILP2025.EmployeeCRUD.Entities.csproj" />
+    <ProjectReference Include="..\Microsoft.ILP2025.EmployeeCRUD.Repositores\Microsoft.ILP2025.EmployeeCRUD.Repositores.csproj" />
+  </ItemGroup>
+
+</Project>
