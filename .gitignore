@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/Microsoft.ILP2025.EmployeeCRUD.Entities/obj
+/Microsoft.ILP2025.EmployeeCRUD.Repositores/obj
+/Microsoft.ILP2025.EmployeeCRUD.Servcies/obj
+/Microsoft.ILP2025.EmployeeCRUD.Web/obj
+/Microsoft.ILP2025.EmployeeCRUD.Web/Microsoft.ILP2025.EmployeeCRUD.Web.csproj.user
