@@ -8,3 +8,7 @@
 /Microsoft.ILP2025.EmployeeCRUD.Servcies/obj
 /Microsoft.ILP2025.EmployeeCRUD.Web/obj
 /Microsoft.ILP2025.EmployeeCRUD.Web/Microsoft.ILP2025.EmployeeCRUD.Web.csproj.user
+/Microsoft.ILP2025.EmployeeCRUD.Entities/bin/Debug/net9.0
+/Microsoft.ILP2025.EmployeeCRUD.Repositores/bin/Debug/net9.0
+/Microsoft.ILP2025.EmployeeCRUD.Servcies/bin/Debug/net9.0
+/Microsoft.ILP2025.EmployeeCRUD.Web/bin/Debug/net9.0
