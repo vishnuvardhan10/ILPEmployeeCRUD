@@ -9,7 +9,7 @@ namespace Microsoft.ILP2025.EmployeeCRUD.Servcies
 {
     public interface IEmployeeService
     {
-        Task<EmployeeEntity> GetEmployee(int id);
+        Task<EmployeeEntity?> GetEmployee(int id);
 
         Task<List<EmployeeEntity>> GetAllEmployees();
     }
